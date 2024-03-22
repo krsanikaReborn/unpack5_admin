@@ -1,0 +1,47 @@
+
+.ipSlot{
+    min-height : 2rem;    
+}
+
+.connectButton{
+    width : 100%;
+    height : 60px;    
+}
+
+.photos{
+    width : 200px;
+    height : 300px;
+}
+
+.absolTR{
+    position : absolute;
+    top : 20px;
+    right : 20px;    
+}
+
+.photoCard .card-body{
+    position: relative;
+}
+
+.photoCard .printButton {
+    position : absolute;
+    top : 20px;
+    right : 20px;    
+}
+
+.photoCard .downloadButton {
+    position : absolute;
+    top : 20px;
+    right : 70px;    
+}
+
+
+
+#goRegister, #goAdbConnect{
+    min-width : 10rem;
+}
+
+
+#adbForm input{
+    min-width : 10rem;
+}
